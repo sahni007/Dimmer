@@ -1,5 +1,5 @@
 /*
- this is proper working code alloking with rc circuit
+ this is proper working code for 3s+2+dimmer
  * issue: not known
  */
 
